@@ -1,0 +1,33 @@
+{
+  "name": "Bot to extract IP ID and IP Hash",
+  "description": "Extract IP ID and IP Hash",
+  "logo": "https://graph.org/file/d437a98541b78d134c371.jpg",
+  "keywords": [
+    "telegram",
+    "best",
+    "app",
+    "scrapper",
+    "3"
+  ],
+  "repository": "https://github.com/picthon/extractionhash",
+  "env": {
+    "WEBHOOK": {
+      "description": "لا تغيرهــا",
+      "value": "ANYTHING"
+    },
+    "TG_BOT_TOKEN": {
+      "description": "تـوكن الـبـوت"
+    },
+    "URL": {
+      "description": "لا تغيـࢪهــا",
+      "value": "https://black.herokuapp.com/"
+    }
+  },
+  "formation": {
+    "web": {
+      "quantity": 1,
+      "size": "eco"
+    }
+  },
+  "stack": "heroku-22"
+}
