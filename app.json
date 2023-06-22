@@ -27,6 +27,7 @@
       "description": "يوزر القناة",
       "required": false,
       "value": "@BThon"
+    }
   },
   "formation": {
     "web": {
