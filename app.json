@@ -7,9 +7,6 @@
     "best",
     "app",
     "scrapper",
-    "bot",
-    "python",
-    "pyrogram"
   ],
   "repository": "https://github.com/picthon/extractionhash",
   "env": {
