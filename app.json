@@ -28,7 +28,6 @@
       "required": false,
       "value": "@BThon"
     }
-  },
   "formation": {
     "web": {
       "quantity": 1,
@@ -36,3 +35,4 @@
     }
   },
   "stack": "heroku-22"
+    }
