@@ -23,6 +23,11 @@
       "value": "https://black.herokuapp.com/"
     }
   },
+  "MUST_JOIN": {
+      "description": "يوزر القناة",
+      "required": false,
+      "value": "@BThon"
+  },
   "formation": {
     "web": {
       "quantity": 1,
